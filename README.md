@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafael Pereira Duque Da Silva.
+- 👋 Hi, I’m Rafael Pereira Duque Da Silva, and i was born in 2005.
 - 👀 I’m interested in learn Python, Html, Css and JavaScript.
 - 🌱 I’m currently learning Html, Css and JavaScript.
 - 💞️ I’m looking to collaborate on front-end.
