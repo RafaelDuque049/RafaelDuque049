@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael Pereira Duque, and i was born in 2005.
-- 👀 I’m interested in learn Python(mainly machine learning and AI) and Front-End(HTML, CSS JAVASCRIPT/ REACT.JS/ NODE.JS).
+- 👀 I’m interested in learn Python(mainly machine learning and AI) and Front-End(HTML, CSS and JAVASCRIPT/ REACT.JS/ NODE.JS).
 - 🌱 I’m currently learning Html, Css and JavaScript/Node.JS.
 - 💞️ I’m looking to collaborate on FRONT-END.
 
