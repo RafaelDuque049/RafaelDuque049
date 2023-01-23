@@ -3,16 +3,16 @@
 <hr>
 <div>
   <p>Tenho conhecimentos prévios em:</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 3rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 3rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  style="width: 3rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 3rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 3rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 3rem;">
 
   <p>Estou a procura de aprender:</p>
-  <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" style="width: 150px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 100px;">
 
   <p>E por diversão, estou em busca do machine learning, e começar aprendendo:</p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" style="width: 180px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" style="width: 120px;">
 </div>
 <hr>
 <div>
@@ -20,7 +20,7 @@
      <h2>Minhas redes sociais:</h2>
      <ul>
           <li>
-               <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-4408594-3649952.png" style="width:20px;">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:20px;">
                <a href="https://www.linkedin.com/in/rafaell-duque-3b6125246" target="_blank">- &lt;Meu LinkedIn&gt;</a>
           </li>
           <li>
@@ -28,7 +28,7 @@
                <a href="https://www.instagram.com/rafael_duque04/" target="_blank">- &lt;Meu Instagram&gt;</a>
           </li>
           <li>
-               <img src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" style="width: 20px;">
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="width: 20px;">
                <a href="https://twitter.com/duque_rafaell" target="_blank">- &lt;Meu Twitter&gt;</a>
           </li>
      </ul>
