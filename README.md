@@ -1,9 +1,7 @@
 <code>Olá, meu nome é <em>{Rafael}</em>. é um prazer ter você por aqui!&#x1F44B;&#x1F603;</code><br>
-<p>Sou um estudante apaixonado por esse mundo da programação.
-     pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning
-</p>
+<p>Sou um estudante apaixonado por esse mundo da programação. pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning</p>
 <hr>
-<div >
+<div>
   <p>Tenho conhecimentos prévios em:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 3rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 3rem;">
@@ -22,12 +20,16 @@
      <h2>Minhas redes sociais:</h2>
      <ul>
           <li>
-               <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-4408594-3649952.png" style="width:20px">
-               <a href="https://www.linkedin.com/in/rafaell-duque-3b6125246" target="_blank">- Meu LinkedIn</a>
+               <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-4408594-3649952.png" style="width:20px;">
+               <a href="https://www.linkedin.com/in/rafaell-duque-3b6125246" target="_blank">- &lt;Meu LinkedIn&gt;</a>
           </li>
           <li>
-               <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-216-721958.png" style="width: 20px">
-               <a href="https://www.instagram.com/rafael_duque04/" target="_blank">- Meu Instagram</a>
+               <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-216-721958.png" style="width: 20px;">
+               <a href="https://www.instagram.com/rafael_duque04/" target="_blank">- &lt;Meu Instagram&gt;</a>
+          </li>
+          <li>
+               <img src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" style="width: 20px;">
+               <a href="https://twitter.com/duque_rafaell" target="_blank">- &lt;Meu Twitter&gt;</a>
           </li>
      </ul>
 </div>
