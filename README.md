@@ -12,11 +12,11 @@
 </div>
 <div>
   <p>Estou a procura de aprender:</p>
-  <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" style="width: 170px;">
+  <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" style="width: 150px;">
 </div>
 <div>
   <p>E por diversão, estou em busca do machine learning, e começar aprendendo:</p>
-  <img src="https://miro.medium.com/max/1024/1*KKADWARPMxHb-WMxCgW_xA.png" style="width: 200px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" style="width: 180px;">
 </div>
 
 
