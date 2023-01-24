@@ -2,7 +2,7 @@
 <p>Sou um estudante apaixonado por esse mundo da programação. pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning</p>
 <hr>
 <div>
-  <p>Tenho conhecimentos prévios em:</p>
+  <p>Estudo e Tenho conhecimentos prévios em:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  style="width: 3rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 3rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 3rem;">
