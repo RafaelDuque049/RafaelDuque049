@@ -1,3 +1,4 @@
+<h1>Seja muito bem vindo(a) ao meu perfil!</h1>
 <code>Olá, meu nome é <em>{Rafael}</em>. é um prazer ter você por aqui!&#x1F44B;&#x1F603;</code><br>
 <p>Sou um estudante apaixonado por esse mundo da programação. pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning</p>
 <hr>
