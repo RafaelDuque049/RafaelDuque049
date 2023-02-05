@@ -1,6 +1,6 @@
 <h1>Seja muito bem vindo(a) ao meu perfil!</h1>
-<code>Olá, meu nome é <em>{Rafael}</em>. é um prazer ter você por aqui!&#x1F44B;&#x1F603;</code><br>
-<p>Sou um estudante apaixonado por esse mundo da programação. pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning</p>
+<code>Olá, meu nome é <em>{Rafael}</em>. é um prazer ter você por aqui!&#x1F44B;&#x1F603;</code>
+<p>Sou um estudante apaixonado por esse mundo da programação. Atualmente comecei na faculdade de Analise e Desenvolvimento de sistemas(ADS) e pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning no futuro</p>
 <hr>
 <div>
   <p>Estudo e Tenho conhecimentos prévios em:</p>
@@ -25,15 +25,15 @@
      <ul>
           <li>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:20px;">
-               <a href="https://www.linkedin.com/in/rafaell-duque-3b6125246" target="_blank">- &lt;Meu LinkedIn&gt;</a>
+               <a href="https://www.linkedin.com/in/rafaell-duque-3b6125246" target="_blank">- &lt;Meu LinkedIn/&gt;</a>
           </li>
           <li>
                <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-216-721958.png" style="width: 20px;">
-               <a href="https://www.instagram.com/rafael_duque04/" target="_blank">- &lt;Meu Instagram&gt;</a>
+               <a href="https://www.instagram.com/rafael_duque04/" target="_blank">- &lt;Meu Instagram/&gt;</a>
           </li>
           <li>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="width: 20px;">
-               <a href="https://twitter.com/duque_rafaell" target="_blank">- &lt;Meu Twitter&gt;</a>
+               <a href="https://twitter.com/duque_rafaell" target="_blank">- &lt;Meu Twitter/&gt;</a>
           </li>
      </ul>
 </div>
