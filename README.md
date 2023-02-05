@@ -1,6 +1,6 @@
 <h1>Seja muito bem vindo(a) ao meu perfil!</h1>
 <code>Olá, meu nome é <em>{Rafael}</em>. é um prazer ter você por aqui!&#x1F44B;&#x1F603;</code><br><br>
-<p>Sou um estudante apaixonado por esse mundo da programação. Atualmente comecei na faculdade de Analise e Desenvolvimento de sistemas(ADS) e pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning no futuro.</p>
+<p>Sou um estudante apaixonado por esse mundo da programação. Atualmente comecei na faculdade de Analise e Desenvolvimento de sistemas (ADS) e pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning no futuro.</p>
 <hr>
 <div>
   <p>Estudo e Tenho conhecimentos prévios em:</p>
@@ -15,12 +15,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 80px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 80px">
 
-  <p>E por diversão, estou em busca do machine learning, e começar aprendendo:</p>
+  <p>E por diversão, estou em busca do machine learning. E vou começar aprendendo:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" style="width: 100px;">
 </div>
 <hr>
 <div>
-     <p>Caso queira falar comigo, pode seguir os links abaixo</p>
+     <p>Caso queira falar comigo, pode seguir os links abaixo.</p>
      <h2>Minhas redes sociais:</h2>
      <ul>
           <li>
