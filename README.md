@@ -31,10 +31,11 @@
                <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-216-721958.png" style="width: 20px;">
                <a href="https://www.instagram.com/rafael_duque04/" target="_blank"> - &lt;Meu Instagram/&gt;</a>
           </li>
-          <li>
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="width: 20px;">
-               <a href="https://twitter.com/duque_rafaell" target="_blank"> - &lt;Meu Twitter/&gt;</a>
-          </li>
+          <!-- <li>
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="width: 20px;">
+                  <a href="https://twitter.com/duque_rafaell" target="_blank"> - &lt;Meu Twitter/&gt;</a>
+              </li>
+          -->
      </ul>
 </div>
 <hr>
