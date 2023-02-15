@@ -34,6 +34,10 @@
                <a href="https://twitter.com/duque_rafaell" target="_blank"> - &lt;Meu Twitter/&gt;</a>
           </li>
         -->
+          <li>
+            <img src="https://comtele.com.br/wp-content/uploads/2021/08/7969340901574338609-512.png" style="width: 20px">
+            <a href="mailto:rafaellduque049@gmail.com"> - &lt;Meu Email/&gt;</a>
+          </li>
      </ul>
 </div>
 <hr>
