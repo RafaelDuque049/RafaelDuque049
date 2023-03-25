@@ -38,6 +38,10 @@
             <img src="https://comtele.com.br/wp-content/uploads/2021/08/7969340901574338609-512.png" style="width: 20px">
             <a href="mailto:rafaellduque049@gmail.com"> - &lt;Meu Email/&gt;</a>
           </li>
+          <li>
+            <img src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" style="width: 20px">
+            <a href="https://www.codewars.com/users/RafaelDuque049/completed_solutions"> - &lt;Meus Katar/&gt;</a>
+          </li>
      </ul>
 </div>
 <hr>
