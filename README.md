@@ -22,7 +22,7 @@
      <ul>
           <li>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:20px;">
-               <a href="https://www.linkedin.com/in/rafaell-duque-3b6125246" target="_blank"> - &lt;Meu LinkedIn/&gt;</a>
+               <a href="https://www.linkedin.com/in/rafaell-p-duque/" target="_blank"> - &lt;Meu LinkedIn/&gt;</a>
           </li>
           <li>
                <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-216-721958.png" style="width: 20px;">
