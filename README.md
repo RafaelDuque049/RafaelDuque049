@@ -17,7 +17,7 @@
 </div>
 <hr>
 <div>
-     <p>Caso queira falar comigo, pode seguir os links abaixo.</p>
+     <I>&#x2B07;&#xFE0F;Caso queira falar comigo, pode seguir os links abaixo.&#x2B07;&#xFE0F;</I>
      <h2>Minhas redes sociais:</h2>
      <ul>
           <li>
