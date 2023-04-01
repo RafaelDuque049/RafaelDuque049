@@ -25,8 +25,8 @@
                <a href="https://www.linkedin.com/in/rafaell-p-duque/" target="_blank"> - &lt;Meu LinkedIn/&gt;</a>
           </li>
           <li>
-               <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-216-721958.png" style="width: 20px;">
-               <a href="https://www.instagram.com/rafael_duque04/" target="_blank"> - &lt;Meu Instagram/&gt;</a>
+               <img src="https://play-lh.googleusercontent.com/P3xTS7gQrh0S2e_99KmHVGiVUcvepvj4eFFhqU_y6XFRegRoo1fTZ8r6t1MUsmfRxXNJ=w240-h480-rw" style="width: 20px;">
+               <a href="https://web.dio.me/users/rafaellduque049?tab=skills" target="_blank"> - &lt;Meu Dio/&gt;</a>
           </li>
        <!-- 
           <li>
