@@ -24,6 +24,10 @@
                <a href="https://www.linkedin.com/in/rafaell-p-duque/" target="_blank"> - &lt;Meu LinkedIn/&gt;</a>
           </li>
           <li>
+                <img src="https://comtele.com.br/wp-content/uploads/2021/08/7969340901574338609-512.png" style="width: 20px">
+                <a href="mailto:rafaellduque049@gmail.com"> - &lt;Meu Email/&gt;</a>
+          </li>
+          <li>
                <img src="https://play-lh.googleusercontent.com/P3xTS7gQrh0S2e_99KmHVGiVUcvepvj4eFFhqU_y6XFRegRoo1fTZ8r6t1MUsmfRxXNJ=w240-h480-rw" style="width: 20px;">
                <a href="https://web.dio.me/users/rafaellduque049?tab=skills" target="_blank"> - &lt;Meu Dio/&gt;</a>
           </li>
@@ -31,11 +35,6 @@
           <li>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="width: 20px;">
                <a href="https://twitter.com/duque_rafaell" target="_blank"> - &lt;Meu Twitter/&gt;</a>
-          </li>
-        -->
-          <li>
-            <img src="https://comtele.com.br/wp-content/uploads/2021/08/7969340901574338609-512.png" style="width: 20px">
-            <a href="mailto:rafaellduque049@gmail.com"> - &lt;Meu Email/&gt;</a>
           </li>
      </ul>
 </div>
