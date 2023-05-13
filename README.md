@@ -36,6 +36,7 @@
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="width: 20px;">
                <a href="https://twitter.com/duque_rafaell" target="_blank"> - &lt;Meu Twitter/&gt;</a>
           </li>
+       -->
      </ul>
 </div>
 <hr>
