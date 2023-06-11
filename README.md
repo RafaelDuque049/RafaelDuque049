@@ -17,7 +17,7 @@
 <hr>
 <div>
      <I>&#x2B07;&#xFE0F;Caso queira falar comigo, pode seguir os links abaixo.&#x2B07;&#xFE0F;</I>
-     <h2>Minhas redes sociais:</h2>
+     <h2>Minhas redes sociais e contatos:</h2>
      <ul>
           <li>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:20px;">
