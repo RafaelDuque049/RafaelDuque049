@@ -1,6 +1,6 @@
 <h1>Seja muito bem vindo(a) ao meu perfil!</h1>
 <code>Olá, meu nome é <em>{Rafael}</em>. é um prazer ter você por aqui!&#x1F44B;&#x1F603;</code><br><br>
-<p>Sou um estudante apaixonado por esse mundo da programação. Atualmente estou no segundo semetres da faculdade de Análise e Desenvolvimento de sistemas(ADS) e pretendo trabalhar na area de front-end e me divertir um pouco explorando o Machine Learning no futuro.</p>
+<p>Sou um estudante apaixonado por esse mundo da programação. Atualmente estou no segundo semetres da faculdade de Análise e Desenvolvimento de sistemas(ADS) e pretendo trabalhar como desenvolvedor web FullStack, e me divertir um pouco explorando o Machine Learning no futuro.</p>
 <hr>
 <div>
   <p>Estudo e Tenho conhecimentos prévios em:</p>
