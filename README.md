@@ -4,16 +4,17 @@
 <hr>
 <div>
   <p>Estudo e Tenho conhecimentos prévios em:</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  style="width: 3rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 3rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 3rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 3rem;">
+  <img id="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  style="width: 3rem;">
+  <img id="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 3rem;">
+  <img id="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 3rem;">
+  <img id="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 3rem;">
 
   <p>E tenho como planejamento estudar futuramente:</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 4rem;">
-  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254474/typescript-icon-icon-md.png" style="width: 4rem">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 4rem">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 4rem">
+  <img id="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 4rem;">
+  <img id="TypeScript" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254474/typescript-icon-icon-md.png" style="width: 4rem">
+  <img id="Oracle" src="https://thumbs.dreamstime.com/b/logotipo-de-oracle-129286921.jpg" style="width: 5rem">
+  <img id="AWS" src="https://images2.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/r4wsu8rl4jvpjydbhooy" style="width: 4rem">
+  <img id="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 4rem">
 </div>
 <hr>
 <div>
