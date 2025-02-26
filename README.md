@@ -7,7 +7,9 @@
   <img id="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  style="width: 3rem;">
   <img id="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 3rem;">
   <img id="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 3rem;">
+  <img id="Node" src="https://img.icons8.com/?size=512&id=54087&format=png" style="width: 4rem;">
   <img id="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 3rem;">
+  
 
   <p>E tenho como planejamento estudar futuramente:</p>
   <img id="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 4rem;">
