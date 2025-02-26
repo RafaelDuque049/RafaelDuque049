@@ -12,11 +12,9 @@
   
 
   <p>E tenho como planejamento estudar futuramente:</p>
-  <img id="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 4rem;">
   <img id="TypeScript" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254474/typescript-icon-icon-md.png" style="width: 4rem">
   <img id="Oracle" src="https://thumbs.dreamstime.com/b/logotipo-de-oracle-129286921.jpg" style="width: 5rem">
   <img id="AWS" src="https://images2.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/r4wsu8rl4jvpjydbhooy" style="width: 4rem">
-  <img id="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 4rem">
 </div>
 <hr>
 <div>
