@@ -9,6 +9,8 @@
   <img id="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 3rem;">
   <img id="Node" src="https://img.icons8.com/?size=512&id=54087&format=png" style="width: 4rem;">
   <img id="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 3rem;">
+  <img id="Git" src="https://mlohrktvfr9b.i.optimole.com/cb:fnc3.16591/w:auto/h:auto/q:90/f:best/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-147-GIT-ICON-1.png" style="width: 3rem;">
+  <img id="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJIvS6SUwk7myZuF8KCubhaSObstIjQCAZg&s" style="width: 3rem;">
   
 
   <p>E tenho como planejamento estudar futuramente:</p>
